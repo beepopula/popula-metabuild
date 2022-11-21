@@ -1,7 +1,7 @@
 # Popula Overview
 Popula is the infrastructure devoted to the Web3 Community Economy, leading a new paradigm for the Creator Economy powered by open-source protocols.
 
-[testnet.popula.io](https://testnet.popula.io)
+[metabuild.testnet.popula.io](https://metabuild.testnet.popula.io)
 
 # Team Bio: 
 27 Squad (27s), a team made up entirely of Web3 believers and builders, including crypto entrepreneur, senior researcher, Tech Geeks, marketing experts, creative designer, and of course, community contributors.
