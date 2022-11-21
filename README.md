@@ -35,3 +35,9 @@ Filter, sort and response frontend's requests.
 Index and store Popula related transactions and receipts for every blocks received from rpc. near-lake-framework integrated.
 
 
+# Crates
+### near-non-transferrable-token (https://crates.io/crates/near-non-transferrable-token)
+The core traits of NTT. Removes transfering functions, add on reputation usage functions like ft_deposit.
+
+### near-fixed-bit-tree (https://crates.io/crates/near-fixed-bit-tree)
+An implementation of alternative binary tree with fixed length
