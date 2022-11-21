@@ -14,7 +14,7 @@ The main protocol of Popula, which can be recogonized to a unique community, and
 
 Template code for community, it can be deployed by community genesis. Contains basic functions for a content community.
 ### Drip (https://github.com/beepopula/Drip-contract)
-Records every account's drips for diferrent communities. Using NTT(Non-Transferable-Token) along with other derivative functions like ft_deposit for reputation usage.
+Records every account's drips for diferrent communities. Using NTT(Non-Transferable-Token) along with drip generation functions.
 
 
 ### Community genesis (https://github.com/popula-io/community-genesis)
